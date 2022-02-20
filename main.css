@@ -1,0 +1,231 @@
+* {
+
+    margin: 0px;
+
+}
+
+html {
+
+    scroll-behavior: smooth;
+
+}
+
+body {
+
+    background-color: #000;
+
+}
+
+.navbar {
+
+    padding: 50px;
+
+    text-align: center;
+
+    font-family: 'Saira', sans-serif;
+    font-weight: 100;
+
+}
+
+.navbar ul {
+
+    margin: 0px;
+
+}
+
+.navbar li {
+
+    display: inline;
+
+    margin: 0 20px;
+
+}
+
+.navbar a {
+
+    color: #fff;
+
+    text-decoration: none;
+
+    font-weight: 300;
+    font-size: 20px;
+
+}
+
+.navbar a:hover {
+
+    color: rgb(214, 214, 214);
+
+    font-size: 19px;
+
+}
+
+.banner {
+
+    background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/fs/0587f251249217.58e7079c0894c.gif');
+    background-position: center;
+    background-size: cover;
+    padding: 120px;
+
+    font-family: 'Saira', sans-serif;
+
+}
+
+.banner h1 {
+
+    color: #fff;
+
+    text-align: center;
+
+    font-size: 60px;
+
+}
+
+.category {
+
+    padding: 70px;
+
+}
+
+.category h1 {
+
+    color: #fff;
+
+    text-align: center;
+
+    font-family: 'Bungee Hairline', cursive;
+    font-size: 60px;
+
+}
+
+.category img {
+
+    width: 50px;
+    height: 50px;
+
+}
+
+.projects {
+
+    text-align: center;
+
+}
+
+.box {
+
+    color: rgb(155, 155, 155);
+    cursor: pointer;
+    background-color: #121212;
+
+    padding: 15px 32px;
+
+    text-align: center;
+    text-decoration: none;
+
+    display: inline-block;
+    margin: 4px 2px;
+
+    border-radius: 8px;
+    border: 3px;
+
+    font-family: 'Saira', sans-serif;
+    font-size: 30px;
+
+    margin: 10px 10px;
+
+}
+
+.box:hover {
+
+    transform: scale(1.05);
+
+}
+
+.box h1 {
+
+    color: #fff;
+
+    text-align: center;
+
+    font-family: 'Saira', sans-serif;
+    font-size: 25px;
+
+}
+
+.box h2 {
+
+    color: #fff;
+
+    text-align: center;
+
+    font-family: 'Saira', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+
+}
+
+.footer-section {
+
+    padding: 50px;
+
+}
+
+.footer {
+
+    background-color: #000;
+    padding: 20px;
+
+}
+
+.footer h2 {
+
+    color: #fff;
+
+    font-family: 'Saira', sans-serif;
+    font-size: 30px;
+
+}
+
+.footer ul {
+
+    margin: 0px;
+    
+}
+
+.footer li {
+
+    display: block;
+
+    margin: 5px 20px;
+
+}
+
+.footer a {
+
+    color: #fff;
+
+    text-decoration: none;
+
+    font-weight: 300;
+    font-size: 14px;
+    font-family: 'Saira', sans-serif;
+
+}
+
+.footer a:hover {
+
+    color: rgb(214, 214, 214);
+
+}
+
+.footer h3 {
+
+    color: #fff;
+
+    text-align: right;
+
+    font-weight: 300;
+    font-size: 14px;
+    font-family: 'Saira', sans-serif;
+
+}
